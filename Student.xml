@@ -1,0 +1,17 @@
+
+<students>
+	<student>
+		<name>MahimSarkar</name>
+		<id> 1 </id>
+		<email> mahimsarkar42042@gmail.com</email>
+	</student>
+	<student>
+		<name>xyz</name>
+		<id> 2 </id>
+		<email> xyz42042@gmail.com</email>
+	</student>
+
+</students>
+
+
+
